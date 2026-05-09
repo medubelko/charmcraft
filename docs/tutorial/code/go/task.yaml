@@ -5,6 +5,9 @@
 # markers for including said instructions
 # as snippets in the docs.
 ###########################################
+
+# !!! TEST
+
 summary: Getting started with Go tutorial
 
 kill-timeout: 50m
