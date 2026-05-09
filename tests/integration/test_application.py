@@ -13,7 +13,7 @@
 # limitations under the License.
 #
 # For further info, check https://github.com/canonical/charmcraft
-"""Integration tests for the Charmcraft class."""
+"""Integration tests for the Charmcraft class. !!! TEST"""
 
 import json
 import pathlib
